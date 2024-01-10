@@ -1,4 +1,4 @@
-# UltrasonicAudioAnalysis
+# Ultrasonic Audio Analysis
 
 A script that identifies which of the three audio files have a secret message 
 

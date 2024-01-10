@@ -18,6 +18,6 @@ Once the script identifies the audio file with the hidden message, it converts t
 
 ## Result of the sript 
 
-the result of the script is the sound4_demodulated.wav file audio 
+the result of the script is the **sound4_demodulated.wav** file audio 
 
 For more details of how it works please see the comments on the code. 

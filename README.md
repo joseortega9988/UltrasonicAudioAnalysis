@@ -1,11 +1,11 @@
 # Ultrasonic Audio Analysis
 
-A script that identifies which of the three audio files have a secret message 
+A script that identifies which of the three audio files have a secret message in ultrasonic frequencies
 
 **To run the program, just upload the code in any enviormente jupyter notebooks can run**
 
 
-#### Important informatiion 
+#### Important information 
  
 You need thinkdsp.py installed on the directory for this script to work
 

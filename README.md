@@ -16,4 +16,8 @@ A company has tasked me with creating a Python script that involves the analysis
 
 Once the script identifies the audio file with the hidden message, it converts that particular file to play the secret code within an audible range of frequencies.
 
+## Result of the sript 
+
+the result of the script is the sound4_demodulated.wav file audio 
+
 For more details of how it works please see the comments on the code. 

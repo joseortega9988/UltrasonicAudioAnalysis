@@ -7,8 +7,7 @@ A script that identifies which of the three audio files have a secret message
 
 #### Important informatiion 
  
-You need thinkdsp.py installed on the directory for this file to work
-
+You need thinkdsp.py installed on the directory for this script to work
 
 
 ## Porpuse of the Script
